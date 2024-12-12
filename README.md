@@ -1,6 +1,8 @@
 # proyecto-final-andino-duarte
 Proyecto Final Diplomado Ciencia de Datos - UCOM
 
+## Ver documento pdf (presentacion.pdf) con los detalles de la Introducction, objectivos, especificaciones y conclusiones
+
 
 # Objetivos
 Desarrollar un modelo predictivo utilizando regresión logística que permita clasificar el diagnóstico de tumores de mama como benignos o malignos. Este análisis se basará en las características cuantitativas presentes en el conjunto de datos Breast Cancer Wisconsin (Diagnostic)
@@ -8,6 +10,6 @@ El modelo busca proporcionar una herramienta efectiva para la detección tempran
 
 
 
-## Ver documento pdf (presentacion.pdf) con los detalles de la Introducction, objectivos, especificaciones y conclusiones
+
 
 
